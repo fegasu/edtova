@@ -1,0 +1,59 @@
+<style type="text/css">
+.bt{
+      cursor:pointer;    
+      background: url("https://drive.google.com/uc?id=1fgt70x1kvhp8Iz7BzuiDS0f6jp4HpMWu") no-repeat right center;  
+       text-align: left;
+       text-align: left;
+    width: 90%;
+    text-align: left;
+    height: 45px;
+    font-size: 10pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    padding: 10px 10px 10px 10px;
+
+     margin:10,10,10,10;
+     border:10,10,10,10;
+     width:100%;
+     
+     border-radius: 15px 10px 10px 15px;
+    -moz-border-radius: 15px 10px 10px 15px;
+    -webkit-border-radius: 15px 10px 10px 15px;
+    border: 1px solid #000000;
+    background-color: white;
+    }
+</style>
+<table style="width: 100%; border: 10,10,10,10;">
+	<tbody>
+		<tr>
+			<td style="width: 57.6124%;">
+			<p><button class="bt" onclick="window.open('***********','xxxx')">PROYECTO DE FORMACION</button></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 57.6124%;">
+			<p><button class="bt" onclick="window.open('***********','xxxx')">PROGRAMA DE FORMACION</button></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 57.6124%;">
+			<p><button class="bt" onclick="window.open('***********','xxxx')">PLAN DE TRABAJO CONCERTADO</button></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 57.6124%;"><button class="bt" onclick="window.open('***********','GUIA')">GUIA DE APRENDIZAJE</button></td>
+		</tr>
+		<tr>
+			<td style="width: 57.6124%;"><button class="bt" onclick="window.open('***********','GUIA')">MATERIALES DE FORMACION</button></td>
+		</tr>
+		<tr>
+			<td style="width: 57.6124%;"><button class="bt" onclick="window.open('***********','_BLANK')">PORTAFOLIO DE EVIDENCIAS</button></td>
+		</tr>
+	</tbody>
+	<tbody>
+	</tbody>
+</table>

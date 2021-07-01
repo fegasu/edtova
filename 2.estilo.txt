@@ -1,0 +1,104 @@
+fieldset{
+     background-color: white;
+}
+button{
+      cursor:pointer;    
+      background: url("https://siomi.datasena.com/bt1.jpg") no-repeat right center;  
+      width:100%;
+       text-align: left;
+     
+      font-size:11px;
+      height:40px;
+      font-weight: bold;
+       text-align: left;
+     background-color: #FCFAF9;
+border-radius: 200px 10px 10px 200px;
+-moz-border-radius: 200px 10px 10px 200px;
+-webkit-border-radius: 200px 10px 10px 200px;
+border: 1px solid #000000;   
+    width: 100%;
+    text-align: left;
+    font-size: 14px;
+    height: 40px;
+    font-size: 14pt;
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+     color: black;
+}
+button:hover{
+        background-color:green;
+        color:yellow;
+
+
+border-radius: 200px 10px 10px 200px;
+-moz-border-radius: 200px 10px 10px 200px;
+-webkit-border-radius: 200px 10px 10px 200px;
+border: 0px solid #000000;
+    }
+
+#bt{
+      cursor:pointer;    
+      background: url("siomi.datasena.com/bt1.jpg") no-repeat right center;  
+      width:100%;
+       text-align: left;
+     
+      font-size:11px;
+      height:40px;
+      font-weight: bold;
+       text-align: left;
+     background-color: #CFDBC5;
+border-radius: 200px 10px 10px 200px;
+-moz-border-radius: 200px 10px 10px 200px;
+-webkit-border-radius: 200px 10px 10px 200px;
+border: 0px solid #000000;   
+    width: 100%;
+    text-align: left;
+    font-size: 14px;
+    height: 40px;
+    font-size: 14pt;
+    font-weight: bold;
+    background-color: #CFDBC5;
+    color: black;
+    text-transform: uppercase;
+     color: black;
+}
+    #bt:hover{
+        background-color:green;
+        color:yellow;
+
+
+border-radius: 200px 10px 10px 200px;
+-moz-border-radius: 200px 10px 10px 200px;
+-webkit-border-radius: 200px 10px 10px 200px;
+border: 0px solid #000000;
+    }
+
+#sele {
+    cursor: pointer;
+    background: url(http://fegasusoft.com/AnaliticaDeDatos/inves/green/bt1.jpg) no-repeat right center;
+    width: 100%;
+    text-align: left;
+    font-size: 14px;
+    height: 40px;
+    font-size: 14pt;
+    font-weight: bold;
+    background-color: #CFDBC5;
+    color: black;
+    text-transform: uppercase;
+
+border-radius: 200px 10px 10px 200px;
+-moz-border-radius: 200px 10px 10px 200px;
+-webkit-border-radius: 200px 10px 10px 200px;
+border: 0px solid #000000;
+}
+    #sele:hover{
+        background-color:green;
+        color:yellow;
+
+
+border-radius: 200px 10px 10px 200px;
+-moz-border-radius: 200px 10px 10px 200px;
+-webkit-border-radius: 200px 10px 10px 200px;
+border: 0px solid #000000;
+    }
